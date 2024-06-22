@@ -1,3 +1,5 @@
 # Test _config.yml file
 name: My Site
 theme: minima
+google_ad_client: <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1694238483978505"
+     crossorigin="anonymous"></script>
