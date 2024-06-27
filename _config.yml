@@ -1,4 +1,4 @@
 # Test _config.yml file
 name: My Site
-theme: minima
+theme: jekyll-theme-minimal
 google_ad_client: ca-pub-1694238483978505
