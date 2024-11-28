@@ -1,6 +1,9 @@
 # EMBBlaster.github.io
 
-Personal site. In construction. Stay tunned.
+Hello world.
+This is my personal site. It is in construction. Stay tunned...
 
-Site pessoal.
-Em construção. 
+Olá world.
+Esse é o meu site pessoal.
+Ainda está em construção. 
+Aguardemmm...
